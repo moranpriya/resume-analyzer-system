@@ -1,0 +1,68 @@
+text,role
+"Experienced in Python, pandas, numpy and machine learning. Built predictive models and performed exploratory data analysis on structured datasets.",Data Scientist
+"Worked on machine learning algorithms including regression and classification. Performed feature engineering and model evaluation.",Data Scientist
+"Developed data visualization dashboards using matplotlib and seaborn. Applied statistical techniques for data analysis.",Data Scientist
+"Built end-to-end ML pipelines using scikit-learn. Cleaned and preprocessed large datasets for training.",Data Scientist
+"Worked with SQL databases and performed advanced queries for analytics and reporting.",Data Scientist
+"Implemented deep learning models using TensorFlow and Keras for image classification.",Data Scientist
+"Performed data preprocessing, handled missing values and optimized ML models for better accuracy.",Data Scientist
+"Applied NLP techniques for text classification and sentiment analysis projects.",Data Scientist
+"Worked on predictive analytics and built models for business forecasting.",Data Scientist
+"Developed machine learning solutions and deployed models using Streamlit.",Data Scientist
+"Designed and implemented data-driven applications using Python and statistical modeling.",Data Scientist
+"Performed hypothesis testing and data visualization for business insights.",Data Scientist
+"Worked on time-series forecasting and regression modeling.",Data Scientist
+"Built recommendation systems using collaborative filtering techniques.",Data Scientist
+"Analyzed structured and unstructured data to extract meaningful insights.",Data Scientist
+
+"Developed C++ applications implementing data structures and algorithms for performance optimization.",Software Engineer
+"Built backend systems using Java and optimized application performance.",Software Engineer
+"Implemented object-oriented programming concepts in large-scale software projects.",Software Engineer
+"Designed REST APIs and handled server-side logic for applications.",Software Engineer
+"Worked on system design and scalable application development.",Software Engineer
+"Implemented sorting and searching algorithms for optimized computation.",Software Engineer
+"Built console applications using C++ and integrated file handling.",Software Engineer
+"Developed backend services and handled authentication mechanisms.",Software Engineer
+"Optimized code performance and reduced memory consumption in applications.",Software Engineer
+"Worked on multithreading and concurrency concepts in software systems.",Software Engineer
+"Built microservices architecture using modern backend frameworks.",Software Engineer
+"Implemented database connectivity and CRUD operations in applications.",Software Engineer
+"Designed modular and reusable software components.",Software Engineer
+"Worked on debugging, testing and deployment of software systems.",Software Engineer
+"Built scalable server-side applications and maintained APIs.",Software Engineer
+
+"Developed responsive web applications using HTML, CSS and JavaScript.",Web Developer
+"Built dynamic user interfaces using React and modern frontend frameworks.",Web Developer
+"Integrated REST APIs and handled client-server communication.",Web Developer
+"Designed UI/UX layouts and optimized website performance.",Web Developer
+"Worked with React components and state management libraries.",Web Developer
+"Developed interactive web pages and implemented responsive design.",Web Developer
+"Built full-stack web applications integrating frontend and backend.",Web Developer
+"Implemented form validation and handled user authentication.",Web Developer
+"Optimized website loading speed and improved accessibility.",Web Developer
+"Worked on cross-browser compatibility and mobile responsiveness.",Web Developer
+"Integrated third-party APIs into web applications.",Web Developer
+"Designed reusable frontend components using JavaScript.",Web Developer
+"Built portfolio websites and deployed using GitHub Pages.",Web Developer
+"Worked on frontend optimization and debugging.",Web Developer
+"Developed dynamic dashboards using React and API integration.",Web Developer
+
+"Completed degree in English literature with strong academic writing skills.",Non-Technical
+"Experienced in research, communication and content writing projects.",Non-Technical
+"Worked as a content writer and editor for academic publications.",Non-Technical
+"Strong background in teaching, literature analysis and research.",Non-Technical
+"Handled communication and documentation responsibilities.",Non-Technical
+"Worked in academic research and report writing.",Non-Technical
+"Developed creative writing and storytelling skills.",Non-Technical
+"Managed administrative and documentation tasks effectively.",Non-Technical
+"Strong verbal and written communication abilities.",Non-Technical
+"Worked on social science research and academic presentations.",Non-Technical
+"Handled project coordination and documentation work.",Non-Technical
+"Experienced in journalism and article writing.",Non-Technical
+"Worked on humanities research and academic studies.",Non-Technical
+"Strong analytical and communication skills in non-technical field.",Non-Technical
+"Experience in teaching and academic mentoring.",Non-Technical
+
+#python train_model.py
+#Ctrl+C
+#python -m streamlit run app.py
