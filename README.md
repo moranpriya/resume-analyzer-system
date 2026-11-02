@@ -1,7 +1,5 @@
 ﻿# resume-analyzer-system
 
- # 📄 Smart Resume Analyzer
-
 A Machine Learning-based web application that analyzes uploaded resumes (PDF files) and predicts the most suitable job role based on the skills, experience, and keywords extracted from the resume.
 
 The application uses Natural Language Processing (NLP) techniques and a Logistic Regression classification model to automate resume screening and job-role prediction.
